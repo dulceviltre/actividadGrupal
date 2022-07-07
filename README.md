@@ -1,5 +1,3 @@
-carmen
-diego
-dayana
-Dulce
+DULCE
+
 # actividadGrupal
